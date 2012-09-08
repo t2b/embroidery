@@ -1,2 +1,2 @@
-embroidery
-==========
+Collection of embroidery files
+==============================
