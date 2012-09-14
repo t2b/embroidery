@@ -18,3 +18,6 @@ http://ftp.ccc.de/logos/Pesthoernchen.svg
 
 ###tux/Tux-simple.svg
 http://en.wikipedia.org/wiki/File:Tux-simple.svg
+
+###tux/Tux-Shirt.svg
+http://en.wikipedia.org/wiki/File:Tux-Shirt.svg
