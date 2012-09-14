@@ -8,3 +8,11 @@ to be generated
 tux_small.pes
 -------------
 to be generated
+
+tux_monochrome.pes
+------------------
+to be generated
+
+tux_monochrome_small.pes
+------------------------
+to be generated
