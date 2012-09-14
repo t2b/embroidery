@@ -15,3 +15,6 @@ https://github.com/shackspace/hgg/blob/master/doc/logo/source/hgg_alles_cmyk_100
 
 ###pesthoernchen/Pesthoernchen.svg
 http://ftp.ccc.de/logos/Pesthoernchen.svg
+
+###tux/Tux-simple.svg
+http://en.wikipedia.org/wiki/File:Tux-simple.svg
