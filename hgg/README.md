@@ -1,4 +1,4 @@
-hgg-logo
+Embroidery Files for HGG
 ========
 
 earth.pes
