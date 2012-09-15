@@ -15,3 +15,6 @@ https://github.com/shackspace/hgg/blob/master/doc/logo/source/hgg_alles_cmyk_100
 
 ###pesthoernchen/Pesthoernchen.svg
 http://ftp.ccc.de/logos/Pesthoernchen.svg
+
+###space-invaders/f_spaceInvaders.ai
+http://www.vecteezy.com/miscellaneous/14525-space-invader-icons
