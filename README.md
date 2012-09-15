@@ -10,10 +10,11 @@ ToDo
    * Mario
    * Mushroom
  * Pac-Man
- * Krebs
  * Debian
  * Ubuntu
  * Arch Linux
+ * ChaosRössle
+   * http://www.cccs.de/wiki/bin/view/Main/InforMancer
 
 Source
 ------
