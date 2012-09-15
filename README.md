@@ -1,7 +1,21 @@
 Collection of embroidery files
 ==============================
 
-source
+ToDo
+----
+ * Krebs
+ * Tux
+ * Space Invaders
+ * Super Mario
+   * Mario
+   * Mushroom
+ * Pac-Man
+ * Krebs
+ * Debian
+ * Ubuntu
+ * Arch Linux
+
+Source
 ------
 
 ###chaosknoten/Chaosknoten.svg
