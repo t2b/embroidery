@@ -15,9 +15,9 @@
    i:viewOrigin="262 450"
    i:rulerOrigin="0 0"
    i:pageBounds="0 792 612 0"
-   width="17.716536"
-   height="17.716536"
-   viewBox="0 0 17.716535 17.716538"
+   width="177.16534"
+   height="177.16534"
+   viewBox="0 0 177.16534 177.16537"
    overflow="visible"
    enable-background="new 0 0 87.041 108.445"
    xml:space="preserve"
@@ -39,14 +39,14 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="839"
-   inkscape:window-height="886"
+   inkscape:window-height="885"
    id="namedview33"
    showgrid="false"
    inkscape:document-units="mm"
    units="mm"
-   inkscape:zoom="37.479111"
-   inkscape:cx="8.8582678"
-   inkscape:cy="8.8582678"
+   inkscape:zoom="3.7479113"
+   inkscape:cx="88.582672"
+   inkscape:cy="88.582672"
    inkscape:window-x="0"
    inkscape:window-y="27"
    inkscape:window-maximized="0"
@@ -72,13 +72,13 @@
 		</ns0:sfw>
 	<rdf:RDF><cc:Work
      rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata>
 	<g
    id="Layer_1"
    i:layer="yes"
    i:dimmedPercent="50"
    i:rgbTrio="#4F008000FFFF"
-   transform="matrix(0.15791349,0,0,0.15791349,2.0001008,0.24251763)">
+   transform="matrix(1.5665551,0,0,1.5665551,17.05742,3.4569777)">
 		<g
    id="g7">
 			<path
