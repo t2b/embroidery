@@ -7,14 +7,49 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="420" height="644" viewBox="90 60 420 644"
-   sodipodi:docname="Emblem.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
-  <metadata>
+   width="354.33069"
+   height="354.33069"
+   viewBox="90 60 354.33069 354.33068"
+   sodipodi:docname="emblem.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   inkscape:export-filename="/home/philipp/_daten/shack/embroidery/star-trek/emblem.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="839"
+     inkscape:window-height="886"
+     id="namedview8"
+     showgrid="false"
+     inkscape:document-units="mm"
+     units="mm"
+     inkscape:zoom="0.66254338"
+     inkscape:cx="362.24136"
+     inkscape:cy="-127.54525"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata4">
     <rdf:RDF>
-      <cc:Work rdf:about="">
+      <cc:Work
+         rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Star Trek Emblem</dc:title>
         <dc:date>1.st May 2009</dc:date>
         <dc:creator>
@@ -57,6 +92,8 @@
     </rdf:RDF>
   </metadata>
   <path
-     d="M 302.3125 83.5625 C 173.53735 277.52458 130.10428 475.02888 115.0625 678.46875 C 198.56887 571.91447 272.07011 502.06874 326.0625 469.625 C 385.67389 433.80484 437.01418 490.46235 487.46875 630.34375 C 453.99082 447.8024 430.8417 269.16999 302.3125 83.5625 z M 303.34375 157.0625 L 322.0625 310.0625 L 367.125 325.40625 L 326.15625 347.15625 L 331.5625 395.96875 L 303.84375 348.6875 L 274.65625 397.75 L 280.5625 346.375 L 238.875 325.375 L 284.125 310.375 L 303.34375 157.0625 z "
-     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     d="M 275.29525,69.353206 C 202.74988,178.62158 178.2819,289.88546 169.80813,404.49315 216.85137,344.46588 258.25822,305.11831 288.6748,286.84118 322.25682,266.6619 351.17933,298.57991 379.60286,377.38197 360.74311,274.54743 347.70206,173.91503 275.29525,69.353206 z m 0.58096,41.406154 10.54519,86.19241 25.38592,8.64393 -23.07971,12.25284 3.0456,27.49848 -15.61533,-26.63588 -16.44276,27.63932 3.32729,-28.94207 -23.48462,-11.83033 25.49155,-8.45023 10.82687,-86.36847 z"
+     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.56334919px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="path6"
+     inkscape:connector-curvature="0" />
 </svg>
