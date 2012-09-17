@@ -30,3 +30,6 @@ https://github.com/shackspace/hgg/blob/master/doc/logo/source/hgg_alles_cmyk_100
 
 ###pesthoernchen/Pesthoernchen.svg
 http://ftp.ccc.de/logos/Pesthoernchen.svg
+
+###star-trek/Emblem.svg
+https://en.wikipedia.org/wiki/File:Emblem.svg
