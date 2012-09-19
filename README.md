@@ -13,14 +13,15 @@ ToDo
  * Debian
  * Ubuntu
  * Arch Linux
- * ChaosRössle
-   * http://www.cccs.de/wiki/bin/view/Main/InforMancer
 
 Source
 ------
 
 ###chaosknoten/Chaosknoten.svg
 http://ftp.ccc.de/logos/Chaosknoten.svg
+
+###chaosroessle/chaospferd.svg
+http://www.cccs.de/wiki/pub/Main/InforMancer/chaospferd.svg
 
 ###club-mate/181.pdf
 http://www.club-mate.de/cws/data/media/content/1/8/181.pdf
