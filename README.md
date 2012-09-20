@@ -4,7 +4,6 @@ Collection of embroidery files
 ToDo
 ----
  * Krebs
- * Tux
  * Space Invaders
  * Super Mario
    * Mario
@@ -14,9 +13,9 @@ ToDo
  * Ubuntu
  * Arch Linux
 
+
 Source
 ------
-
 ###chaosknoten/Chaosknoten.svg
 http://ftp.ccc.de/logos/Chaosknoten.svg
 
