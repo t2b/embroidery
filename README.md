@@ -8,7 +8,6 @@ ToDo
  * Super Mario
    * Mario
    * Mushroom
- * Pac-Man
  * Debian
  * Ubuntu
  * Arch Linux
