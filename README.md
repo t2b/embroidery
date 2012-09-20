@@ -3,7 +3,6 @@ Collection of embroidery files
 
 ToDo
 ----
- * Krebs
  * Space Invaders
  * Super Mario
    * Mario
@@ -31,12 +30,6 @@ http://www.debian.org/logos/openlogo-nd.svg
 
 ###hgg/hgg_alles_cmyk_100k.eps
 https://github.com/shackspace/hgg/blob/master/doc/logo/source/hgg_alles_cmyk_100k.eps
-
-###krebs/krebs_plain.svg
-https://github.com/shackspace/painload/blob/master/cholerab/bling/krebs_plain.svg
-
-###krebs/krebs_42.svg
-https://github.com/shackspace/painload/blob/master/cholerab/bling/krebs_42.svg
 
 ###pac-man/Pacman.svg
 https://de.wikipedia.org/w/index.php?title=Datei:Pacman.svg
