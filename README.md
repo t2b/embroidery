@@ -37,9 +37,6 @@ https://de.wikipedia.org/w/index.php?title=Datei:Pacman.svg
 ###pesthoernchen/Pesthoernchen.svg
 http://ftp.ccc.de/logos/Pesthoernchen.svg
 
-###space-invaders/f_spaceInvaders.ai
-http://www.vecteezy.com/miscellaneous/14525-space-invader-icons
-
 ###star-trek/Emblem.svg
 https://en.wikipedia.org/wiki/File:Emblem.svg
 
