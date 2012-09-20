@@ -8,7 +8,6 @@ ToDo
  * Super Mario
    * Mario
    * Mushroom
- * Debian
  * Ubuntu
  * Arch Linux
 
